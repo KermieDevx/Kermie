@@ -1,3 +1,8 @@
+-- Updated script with new features by Omitooi (V3rm)
+-- Script Thread: https://v3rmillion.net/showthread.php?tid=1182125
+-- loadstring(game:HttpGet("https://raw.githubusercontent.com/TrapstarKSSKSKSKKS/Main/main/Anime%20Adventures.lua"))()
+------------------------------
+
 -- v1.4.4 --
 -- Added Ghoul City
 -- Fixed Auto Start
@@ -669,7 +674,7 @@ function sex()
 
     local credits = serv:Channel("Credits")
     credits:Label("Kermie#0143")
-    credits:Label(" ")
+    credits:Label("7souls#1111")
     credits:Label(" ")
 
 end
